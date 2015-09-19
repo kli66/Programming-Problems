@@ -1,3 +1,8 @@
+/* Taking derivative of original function shows that the function vakue is
+ * decling on the [0,1]. Then using the bisection method to approach the answer
+ * within the available range.
+*/
+
 #include <stdio.h>
 #include <math.h>
 double p,q,r,s,t,u;
